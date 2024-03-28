@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function resolveSearchParameters(current) {\n  var parent = current.getParent();\n  var states = [current.getHelper().state];\n  while (parent !== null) {\n    states = [parent.getHelper().state].concat(states);\n    parent = parent.getParent();\n  }\n  return states;\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

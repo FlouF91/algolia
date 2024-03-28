@@ -1,0 +1,1 @@
+{"ast":null,"code":"// eslint-disable-next-line import/extensions\nexport * from 'algoliasearch-helper/types/algoliasearch.js';\nexport {};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

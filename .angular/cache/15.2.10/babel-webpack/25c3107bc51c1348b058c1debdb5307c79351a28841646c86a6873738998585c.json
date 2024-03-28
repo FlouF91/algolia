@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function getObjectType(object) {\n  return Object.prototype.toString.call(object).slice(8, -1);\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

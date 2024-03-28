@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function formatNumber(value, numberLocale) {\n  return value.toLocaleString(numberLocale);\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
