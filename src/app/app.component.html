@@ -1,0 +1,25 @@
+<header class="header">
+  <h1 class="header-title">
+    <a href="/">y</a>
+  </h1>
+</header>
+
+<div class="container">
+  <ais-instantsearch [config]="config">
+    <ais-configure [searchParameters]="{ hitsPerPage: 8 }"></ais-configure>
+    <div class="search-panel">
+      <div class="search-panel__results">
+        <div class="searchbox">
+          <ais-search-box placeholder=""></ais-search-box>
+        </div>
+
+        <ais-hits></ais-hits>
+
+        <div class="pagination">
+          <ais-pagination></ais-pagination>
+        </div>
+      </div>
+
+    </div>
+  </ais-instantsearch>
+</div>

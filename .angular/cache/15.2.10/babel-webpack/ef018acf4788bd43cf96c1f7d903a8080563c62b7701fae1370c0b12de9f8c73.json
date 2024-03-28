@@ -1,0 +1,1 @@
+{"ast":null,"code":"export function noop() {}","map":{"version":3,"names":["noop"],"sources":["C:/Users/reyxa/Algolia_assignment/ais-ecommerce-demo-app/node_modules/instantsearch.js/es/lib/utils/noop.js"],"sourcesContent":["export function noop() {}"],"mappings":"AAAA,OAAO,SAASA,IAAI,GAAG,CAAC","ignoreList":[]},"metadata":{},"sourceType":"module","externalDependencies":[]}
