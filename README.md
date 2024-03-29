@@ -11,4 +11,8 @@ Step by step and comments
 - Followed this documentation https://www.algolia.com/doc/guides/building-search-ui/getting-started/js/ with the Angular integration
 - Boostrap using npm
 - Rewire the API call to pull dataset from my account
-- Customized the records template to display the product picture and price
+- Customized the records template to display the products picture and price
+- added a filter widget on brands
+- added a tiny bit of CSS for looks
+
+That's all for now, folks!
