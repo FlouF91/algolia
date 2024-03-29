@@ -12,7 +12,7 @@ Step by step and comments
 - Boostrap using npm
 - Rewire the API call to pull dataset from my account
 - Customized the records template to display the products picture and price
-- added a filter widget on brands
+- added filtering widgets in the sidebar
 - added a tiny bit of CSS for looks
 
 That's all for now, folks!
